@@ -1,0 +1,12 @@
+ap/
+Books/
+new_Books/
+new_volumes/
+test/
+Volumes/
+convert_to_tiff.pl
+ap.sql
+ap_110314.sql
+gen_ap_magazine.pl
+info.txt
+test.pl
